@@ -19,6 +19,10 @@
     <a href="https://luau.org/"><img src="https://img.shields.io/badge/Luau-OOP-00A2FF?style=flat-square&logo=lua&logoColor=white" alt="Luau OOP" /></a>
     <a href="https://github.com/rust-lang"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /></a>
   </p>
+
+  <p>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=lua,rust,github,roblox" width="40" alt="tech icons" /></a>
+  </p>
 </div>
 
 ## About me
@@ -26,6 +30,19 @@
 I build backend systems and tooling for Roblox projects, with a strong focus on clean architecture, performance, and maintainability. I enjoy creating reusable services, framework abstractions, and practical engineering solutions that make multiplayer game development smoother.
 
 I also enjoy experimenting with Rust and desktop tooling, especially when I want to push performance, system design, and UX in a different direction.
+
+## Tech & tools
+
+<div align="center">
+<table align="center" cellpadding="14">
+<tr><th>Languages</th><th>Frameworks</th><th>Tools</th></tr>
+<tr>
+<td valign="middle" align="center"><a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua" width="40" /></a><br/>Luau (Luau OOP)</td>
+<td valign="middle" align="center"><a href="https://github.com/nodeal-framework">Nodeal</a><br/><a href="https://github.com/Sleitnick/Knit">Knit</a></td>
+<td valign="middle" align="center">GitHub, Git, CI/CD, Static analysis</td>
+</tr>
+</table>
+</div>
 
 ## Current focus
 
