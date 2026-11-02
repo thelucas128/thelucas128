@@ -1,5 +1,5 @@
 
-<div align="center"><img width="200" src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=thelucas128&theme=dark&width=200&count=1" alt="Now playing" /></div>
+<div align="center"><img width="200" src="https://lastfm-recently-played.vercel.app/api?user=thelucas128&theme=dark&count=1" alt="Now playing" /></div>
 
 <div align="center">
 <p>
